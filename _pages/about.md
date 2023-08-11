@@ -10,8 +10,6 @@ redirect_from:
 
 [DeepX, Inc. ](https://www.deepx.co.jp/) is a Tokyo based startup aiming for automating any machines and innovating global industries. I research and develop Computer Vision solution to various perception problem of robotic software development.
 
-<iframe style="padding-bottom: 1em;" src="https://www.youtube.com/embed/15sa6OeIWJg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 **Bio:** From 2017 to 2019 worked as an AI Engineer for Hiperdyne Corporation which is a Tokyo based startup aiming to provide Deep Learning and machine learning based solution to client's problems in commercial and industrial setting. In Hiperdyne I worked in projects for renowned companies of Japan namely Sony Computer Science Laboratories (Sony CSL) and Sony Network Communications Inc (Sonet). In the meam time, in Fall 2022 I had started a online Masters program in Computer Science in order to learn fundamentals of Computer Science and Machine Learning by studing their theory and doing hands-on projects. In 2022, I joined DeepX, Inc. to work as computer vision engineer and contribute to their quest of automation of heavy machines.
 
