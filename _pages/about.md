@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi! I'm Mesbahur, a Computer Vision Engineer at DeepX, Inc."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+[DeepX, Inc. ](https://www.deepx.co.jp/) is a Tokyo based startup aiming for automating any machines and innovating global industries. I research and develop Computer Vision solution to various perception problem of robotic software development.
+
+<iframe style="padding-bottom: 1em;" src="https://www.youtube.com/embed/15sa6OeIWJg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+**Bio:** From 2017 to 2019 worked as an AI Engineer for Hiperdyne Corporation which is a Tokyo based startup aiming to provide Deep Learning and machine learning based solution to client's problems in commercial and industrial setting. In Hiperdyne I worked in projects for renowned companies of Japan namely Sony Computer Science Laboratories (Sony CSL) and Sony Network Communications Inc (Sonet). In the meam time, in Fall 2022 I had started a online Masters program in Computer Science in order to learn fundamentals of Computer Science and Machine Learning by studing their theory and doing hands-on projects. In 2022, I joined DeepX, Inc. to work as computer vision engineer and contribute to their quest of automation of heavy machines.
+
+**Impact:** The outcome of my project on machine learning reserach on music at Sony CSL has beed successffully deployed on Sony ATV Music server and since then it being used to predict genre and mood of a music from its audio based feature set. In DeepX I built an anomaly detection system based classical computer vision algorithms. I also developed several Point Cloud filter and image information retrieval system based on the bev image of point clouds which has been tested and deploed in automated excavators in real site.
+
+**Future Plans:** In 2023, my focus will be to do conduct personal research on intersection region of LLMs and Computer Vision.
+
+
+Projects
+------
+<i class="fas fa-link" aria-hidden="true"></i>  <a href="https://mmrahman-utexas.github.io//projects/">Details and Contribution</a>
+<ul>{% for post in site.projects reversed %}
+  {% include archive-single-short-project.html %}
+{% endfor %}</ul>
+
+
+
+<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
@@ -47,4 +68,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
