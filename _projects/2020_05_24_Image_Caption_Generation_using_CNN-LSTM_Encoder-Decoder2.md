@@ -9,13 +9,13 @@ contribution: "Defined and trained a CNN on facial keypoint dataset from \"YouTu
 date: 2020-05-24
 teaserurl: 'image_captioning_infer2.png'
 codeurl: 'https://github.com/mmrahman-utexas/Image_Caption_Generator'
-excerpt: 'Facial keypoint detection is an important example of a computer vision problem which can be solved effectively by treating the problem as an image regression task and and trainign a CNN network for predicting the image location of the key-points. In this project, I trained a CNN network to predict important facial keypoints given an image of a human face.  I did this project as a requirements of graduating from Udacity's Computer Vision Nanodegree program.'
+excerpt: 'Image caption generation is a widely used application of sequential generative model. In this project, I designed and trained a CNN-LSTM encoder-decoder architecture for generating caption from an input image. I did this project as part of the requirement of gaduating "Computer Vision Nanodegree" from Udacity.'
 ---
 
 Md Mesbahur Rahman
 
 **Description:**
-Facial keypoint detection is an important example of a computer vision problem which can be solved effectively by treating the problem as an image regression task and and trainign a CNN network for predicting the image location of the key-points. In this project, I trained a CNN network to predict important facial keypoints given an image of a human face.  I did this project as a requirements of graduating from Udacity's Computer Vision Nanodegree program.
+Image caption generation is a widely used application of sequential generative model. In this project, I designed and trained a CNN-LSTM encoder-decoder architecture for generating caption from an input image. I did this project as part of the requirement of gaduating "Computer Vision Nanodegree" from Udacity.
 
 **My contribution:**
 Pre-processed the images in the MS COCO Dataset using PyTorch Transforms and converted the captions in the training set into sequence of integers using BOW vocabulary dictionary with a vocabulary threshold of 5. Defined and trained a CNN encoder and a LSTM Decoder on top of a time distributed embedding layer by using pretrained RESNET50 model as a feature extractor to encode an input image into a fixed
