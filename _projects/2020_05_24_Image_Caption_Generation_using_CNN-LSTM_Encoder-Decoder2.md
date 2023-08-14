@@ -5,7 +5,7 @@ urlslug: "Image_Caption_Generation_using_CNN-LSTM_Encoder-Decoder2"
 type: "Personal"
 permalink: /projects/2020_05_24_Image_Caption_Generation_using_CNN-LSTM_Encoder-Decoder2
 contributors: "Md Mesbahur Rahman"
-contribution: "Defined and trained a CNN on facial keypoint dataset from \"YouTube Faces Dataset\" using custom transformation in PyTorch to perform regression task to predict the location of 68 facial keypoints as inspired from [this paper](https://arxiv.org/pdf/1710.00977.pdf). During inference detected all the faces in an image using OpenCV's pre-trained Haar Cascade classifiers and predicted the location of 68 facial keypoints on those detected faces using our trained CNN network."
+contribution: "Defined and trained a CNN on facial keypoint dataset from YouTube Faces Dataset using custom transformation in PyTorch to perform regression task to predict the location of 68 facial keypoints as inspired from [this paper](https://arxiv.org/pdf/1710.00977.pdf). During inference detected all the faces in an image using OpenCV's pre-trained Haar Cascade classifiers and predicted the location of 68 facial keypoints on those detected faces using our trained CNN network."
 date: 2020-05-24
 teaserurl: 'image_captioning_infer2.png'
 codeurl: 'https://github.com/mmrahman-utexas/Image_Caption_Generator'
