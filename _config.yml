@@ -85,8 +85,8 @@ author:
   bio              : "Computer Vision Engineer at DeepX, Inc; MSCS student at UT Austin (online)"
   location         : "Tokyo, Japan"
   employer         :  DeepX, Inc.
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :  md.mesbahur.rahman [at] utexas [dot] edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/md-mesbahur-rahman-1870b514b/"
+  linkedin         : "md-mesbahur-rahman-1870b514b"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "Mmrtamim"
   vine             :
   weibo            :
   xing             :
