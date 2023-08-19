@@ -66,7 +66,7 @@ Teaching
 ------
 <i class="fas fa-link" aria-hidden="true"></i> <a href="https://mmrahman-utexas.github.io/teaching/">Details</a>
   <ul>{% for post in site.teaching %}
-    {% include archive-single-teaching.html %}
+    {% include archive-single-short-teaching.html %}
   {% endfor %}</ul>
 
 Projects
