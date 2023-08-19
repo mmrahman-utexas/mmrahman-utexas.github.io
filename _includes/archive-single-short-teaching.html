@@ -18,7 +18,8 @@
     <h3 style="margin-top: 0.5em; margin-bottom: 0.25em;">
       {{ title }}
     </h3>
-    <p style="margin: 0;"> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.start_date | default: "1900-01-01" | date: "%B %Y" }}-{{ post.end_date | default: "1900-01-01" | date: "%B %Y" }} </p>
+    <p style="margin: 0;"> {{ post.type }}, <i>{{ post.venue }}</i> </p>
+    <p class="page__meta"><i class="fas fa-calendar" aria-hidden="true"></i> {{ post.start_date | default: "1900-01-01" | date: "%B %Y" }}-{{ post.end_date | default: "1900-01-01" | date: "%B %Y" }}</p>
     <p style="margin: 0;">
     [<a href="https://mmrahman-utexas.github.io/teaching/">Details</a>]
     </p>
