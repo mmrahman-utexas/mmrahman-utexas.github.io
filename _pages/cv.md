@@ -64,9 +64,9 @@ Skills
 
 Teaching
 ------
-<i class="fas fa-link" aria-hidden="true"></i> <a href="https://mmrahman-utexas.github.io/teaching/">Slides and Recordings</a>
+<i class="fas fa-link" aria-hidden="true"></i> <a href="https://mmrahman-utexas.github.io/teaching/">Details</a>
   <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-teaching.html %}
   {% endfor %}</ul>
 
 Projects
