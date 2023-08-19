@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2018-lecturer-at-uttara-university
 venue: "Uttara University, Department of Electrical and Electronics Engineering"
-date: 2014-01-01
+date: 2018-09-01
 location: "Dhaka, bangladesh"
 ---
 
