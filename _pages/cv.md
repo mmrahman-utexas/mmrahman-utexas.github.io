@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Downloadable PDF: Coming soon!
+Downloadable PDF: [Here](https://mmrahman-utexas.github.io/files/Md_Mesbahur_Rahman_CV_Edu_August_2023.pdf)
 
 Cover Letter
 ------
