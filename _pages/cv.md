@@ -40,7 +40,7 @@ Work experience
   * Implemented sequence classification using hierarchical attention for an LSTM sequenceAutoencoder on LibROSA extracted features to classify error pattern in beat tracking done by a proprietary music analysis tool for Sony CSL (Sony Computer Science Laboratory) at Hiperdyne Corporation.
   * Trained various deep learning model and machine learning model on a structured dataset by extracting numerous music related features from mp3 files using a proprietary music analysis tool and pre-processing them by exploratory data analysis and achieved beyond state of the art for predicting multi-label genre/mood of a song for Sony CSL (Sony Computer Science Laboratory) at Hiperdyne Corporation.
   * Implemented different machine learning and deep learning architecture to solve a multilabel classification problem for predicting various lyric-theme of a song lyrics in text form for a client company at Hiperdyne Corporation. Used frameworks like Scikit-Learn and Keras to train on features extracted using TF-IDF and Word2Vec to achieve best in class multi-label F1 score lyric-theme prediction model.
-* **Sep 2018 - Nov 2022: Lecturer, Uttara University, Dhaka, Bangladesh **
+* **Sep 2018 - Nov 2022: Lecturer, Uttara University, Dhaka, Bangladesh**
   * Taught academic courses at the department of Electrical and Electronic Engineering in ttara University, Dhaka, Bangladesh.
 
   
