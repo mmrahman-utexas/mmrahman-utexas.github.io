@@ -18,11 +18,11 @@ I work at [DeepX, Inc.](https://www.deepx.co.jp/), where I research and develop 
 Education
 ------
 * **M.S. in Computer Science, The University of Texas at Austin (expected Dec 2023)**
-  * GPA: 3.81 on 4.0 ([Latest Transcript](https://github.com/mmrahman-utexas/files/University_of_Texas_Academic_Summary.pdf))
+  * GPA: 3.81 on 4.0 ([Latest Transcript](https://mmrahman-utexas.github.io/files/University_of_Texas_Academic_Summary.pdf))
   * Coursework ("A" grades): Deep Learning, Advanced Linear Algebra for Computing, Machine Learning, Natural Language Processing, Online Learning and Optimization.
 * **B.Sc. in Electrical and Electronics Engineering, Bangladesh University of Engineering and Technology, 2017**
   * Thesis: Machine Learning for Anomaly-based Network Intrusion Detection, supervised by Dr. Mahesh Shirole.
-  * GPA: 3.69 on 4.0 ([Transcript](https://github.com/mmrahman-utexas/files/MD_MESBAHUR_RAHMAN_Bangladesh_University_of_Engineer_&_Tech_Transcript.pdf))
+  * GPA: 3.69 on 4.0 ([Transcript](https://mmrahman-utexas.github.io/files/MD_MESBAHUR_RAHMAN_Bangladesh_University_of_Engineer_&_Tech_Transcript.pdf))
 
 
 Work experience
