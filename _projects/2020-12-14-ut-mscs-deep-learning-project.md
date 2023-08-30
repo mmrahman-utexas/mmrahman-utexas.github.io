@@ -4,7 +4,7 @@ collection: projects
 urlslug: "ut-mscs-deep-learning-project"
 type: "Academic"
 permalink: /projects/2020-12-14-ut-mscs-deep-learning-project
-contributors: "Md Mesbahur Rahman, "
+contributors: "Md Mesbahur Rahman, Mohammad Aljubran, Nivethi Krithika, Shubham Bhardwaj"
 contribution: "Desihned, coded and trained multi-task fully convolutional CNN for vision stage of pipeline, wrote sections of report."
 date: 2020-12-14
 teaserurl: 'puck_detection_regression.png'
@@ -25,7 +25,7 @@ excerpt: 'We designed an agent to
         DAgger learner on the internal state controller.'
 ---
 
-Md Mesbahur Rahman, 
+Md Mesbahur Rahman, Mohammad Aljubran, Nivethi Krithika, Shubham Bhardwaj
 
 **Description:**
 We designed an agent to
