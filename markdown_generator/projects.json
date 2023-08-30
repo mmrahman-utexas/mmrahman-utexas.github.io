@@ -14,6 +14,31 @@
         "my_contribution": "Trained ELECTRA-small model  on the SQuAD dataset. Then we generated predictions for the respective dataset of Checklist sets and Adversarial SQuAD from this model using our own scripts. Then we used Checklist and Adversarial framework to identify some of the artifacts in the model’s learning. Implemented Inoculation by fine-tuning mwthod for mitigating dataset artifacts by taking our original Electra-small model training on the training set of the SQuAD dataset and fine-tuning it on a small subset sampled from the training set of the 'Adversarial SQuAD' dataset. Then we evaluated dataset artifacts of this finetuned model using Checklist sets and Adversarial SQuAD and caompared with the original result."
     },
     {
+        "title": "Autonomous agents for realtime multiplayer ice-hockey",
+        "contributors": "Md Mesbahur Rahman, ",
+        "type": "Academic",
+        "project_date": "2020-12-14", 
+        "url_slug": "ut-mscs-deep-learning-project", 
+        "teaser_url": "puck_detection_regression.png",
+        "report_url": "https://mmrahman-utexas.github.io/files/CS_395T___Deep_Learning__Final_Project_Manuscript.pdf",
+        "code_url": "",
+        "excerpt": "We designed an agent to
+        play SuperTuxKart, and particularly compete with the AI oracle
+        (and other classmate AI agents) in a 2v2 hockey game. Our
+        strategy was to maximize puck possession and minimize puck
+        distance to the opponent’s goal. Imitation Learning and DAgger
+        could not perform sufficiently well when trained using the AI
+        oracle of the game. Instead, an internal state controller was built
+        and found superior to the AI, where it wins 70% of the time and
+        scores an average of 3.1 goals per game when competing in 2v2
+        against the AI oracle. Based on supervised learning, a planner
+        was trained to detect puck presence and location. Playing 10 2v2
+        games, this agent wins 30% of the games and scores an average
+        of 1.2 goals per game. Future work can involve training a
+        DAgger learner on the internal state controller.",
+        "my_contribution": "Desihned, coded and trained multi-task fully convolutional CNN for vision stage of pipeline, wrote sections of report."
+    },
+    {
         "title": "Unsupervised Anomaly Detection Using Convolutional Autoencoder",
         "contributors": "Md Mesbahur Rahman",
         "type": "Academic",
