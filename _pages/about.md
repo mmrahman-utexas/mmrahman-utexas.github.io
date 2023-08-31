@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi! I'm Mesbahur, a Computer Vision Engineer at DeepX, Inc."
+title: "Hi! I'm Mesbahur, a Senior Computer Vision Engineer at DeepX, Inc."
 excerpt: "About me"
 author_profile: true
 redirect_from: 

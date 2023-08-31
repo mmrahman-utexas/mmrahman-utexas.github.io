@@ -28,7 +28,7 @@ Education
 Work experience
 ------
 
-* **Feb 2022 - Present: Computer Vision Engineer, DeepX Inc., Tokyo, Japan**
+* **Feb 2022 - Present: Senior Computer Vision Engineer, DeepX Inc., Tokyo, Japan**
   * Created real image dataset of industrial sample products by creating scratch and dents defect on them and taking images using industrial grade camera, lens and lighting equipment. Designed and implemented rule-based computer vision algorithms for scratch and dent defect detection in images of industrial sample products. Some of the notable implemented rule-based AD methods are “Adaptive Thresholding”, “Edge Detection”,
   “Morphology”, “FFT Bandpass filtering”, “Texture Entropy Analysis”, “Texture Laws Filtering” etc. which were implemented using Halcon and OpenCV frameworks. These algorithms were developed as part of the project (ongoing) of “Automation of Design Process of Visual Inspection System (Imaging Conditions and Inspection Algorithms)”.
   * Designed and developed a ROS2 based pass-through range filter in C++ for removing points of a pyramid shape building from a PointCloud using a geometry-based filtering. Generated simulation PointCloud test data and deployed the filter on site after testing its performance on real PointCloud test data.
