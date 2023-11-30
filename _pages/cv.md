@@ -31,9 +31,9 @@ Standardized Test Scores
 * **GRE**
   * Score: 318 ([Unofficial Report](https://mmrahman-utexas.github.io/files/MD_MESBAHUR_RAHMAN_gre_report.pdf))
   * Verbal Reasoning:154, Quantitative Reasoning:164, Analytical Writing:3.5
-* **TOEFL (Expired)**
+* **TOEFL**
   * Score: 110 ([Unofficial Report](https://mmrahman-utexas.github.io/files/MD_MESBAHUR_RAHMAN_TOEFL_Report.pdf))
-  * Reading: 30, Listening: 30, Speaking: 22, Writing: 28
+  * Reading: 30, Listening: 29, Speaking: 23, Writing: 28
 
 
 Work experience
